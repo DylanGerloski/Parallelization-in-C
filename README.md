@@ -10,7 +10,7 @@ The program can take several command line arguments:
   - 'n' refers to the number of threads used in the set.
  
  
- There other arguments you can use as well, type help to find what they are. If there are no command line arguments, the program will print out the generic image of the mandelbrot set. 
+ There are other arguments you can use as well, type help to find what they are. If there are no command line arguments, the program will print out the generic image of the mandelbrot set. 
  
  Here is an example of an image's coordiantes I used and how increasing the number of threads affected execution time:
  
